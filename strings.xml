@@ -12,11 +12,11 @@
 <t name='SpecialSkin2'>Play the game 7 days in a row to get it!</t>
 <t name='BsodScanDescr'>Scan progress</t>
 <t name='OopsButton'> Oops! </t>
-<t name='Thatissad'>Very pity! We'll try our best to improve the game!</t>
-<t name='DOSMessage19'>Hi! This is a game disk. It changes each time you run Progressbar. Each time bonuses and secrets are placed in new location. Find them all. Good luck!</t>
+<t name='Thatissad'>We're sorry, we'll try our best to improve the game!</t>
+<t name='DOSMessage19'>Hi! This is a game disk. It changes each time you run Progressbar95. Each time, bonuses and secrets are placed in new locations. Find them all. Good luck!</t>
 <t name='Skip'>Skip</t>
 <t name='SpecialSkin'>Special skin!</t>
-<t name='EasterEggDesc'>You found an easter egg!</t>
+<t name='EasterEggDesc'>You've found an easter egg!</t>
 <t name='Restart'>Replay</t>
 <t name='no2'> No </t>
 <t name='RestorePurchase3'>Restore
@@ -24,9 +24,9 @@ purchases</t>
 <t name='GameModeHardcore'>Hardcore</t>
 <t name='TutorialTip3'>Red items are bad!</t>
 <t name='SurvivalGameMode'>Survival</t>
-<t name='RestorePurchases2'>The list of products has been updated</t>
+<t name='RestorePurchases2'>The list of products have been updated</t>
 <t name='Shot'>Begin</t>
-<t name='BugDesc'>You found a bug!</t>
+<t name='BugDesc'>You've found a bug!</t>
 <t name='unlockdevice'>You've unlocked a new device upgrade!</t>
 <t name='Bug'>Bug</t>
 <t name='Software'>Software</t>
@@ -40,12 +40,12 @@ purchases</t>
 <t name='DOSMessage4'>WRONG NAME</t>
 <t name='Published'>Published by Spooky House Studios</t>
 <t name='Yinandyangt'>Yin and yang</t>
-<t name='youareprofessional'>You are the professional!</t>
+<t name='youareprofessional'>You are a professional!</t>
 <t name='Defragmentation'>Defragment</t>
 <t name='ad_free_version'>Remove Advertising</t>
 <t name='DefragmentationShort'>Defragment</t>
 <t name='Points'> points</t>
-<t name='BrokenPixelDesc'>You found a dead pixel!</t>
+<t name='BrokenPixelDesc'>You've found a dead pixel!</t>
 <t name='YinandyangtBonus'>Yin and yang</t>
 <t name='BrokenPixel'>Dead pixel</t>
 <t name='soon'>soon</t>
@@ -54,7 +54,7 @@ purchases</t>
 <t name='DOSMessage20'>To do list
 1.Clean my computer mouse
 2.Get a new videocard</t>
-<t name='ToBegin'>To begin a game please tap Begin button</t>
+<t name='ToBegin'>To begin a game, please tap the Begin button</t>
 <t name='PopUpWithCheckbox2'>Don't close</t>
 <t name='Firewall'>Firewall</t>
 <t name='StickyPopUp'>Sticky note</t>
@@ -63,14 +63,14 @@ purchases</t>
 <t name='Bonus'>Bonus</t>
 <t name='CloudManager2'>There is a save with better progress in the Cloud!</t>
 <t name='Electricity'>Electricity</t>
-<t name='FirewallDescription'>Firewall can protect your progressbar from the red items. Simply hide behind it</t>
+<t name='FirewallDescription'>The Firewall can protect your progressbar from the red items. Simply hide behind it</t>
 <t name='PopUpWithCheckbox'>Allow closing</t>
 <t name='skin_p8'>Includes: (Ad free, 95 plus, 98, Meme, 2000, XB, Wista,7,81)</t>
-<t name='collectupgradesgetsystem'>Collect upgrades to get systems</t>
+<t name='collectupgradesgetsystem'>Collect upgrades to get new systems</t>
 <t name='PerfectionistBonus'>Perfectionist</t>
 <t name='skin_pmeme'>Includes: (Ad free, 95 plus, 98, Meme)</t>
 <t name='newdevice'>New device</t>
-<t name='warning2'>Do you want to replay the stage?
+<t name='warning2'>Do you want to replay the level?
 You'll lose one of your hearts!</t>
 <t name='TutorialTip1'>Move your finger to move the panel</t>
 <t name='PopUpWithMine'>I have a present!</t>
@@ -79,29 +79,30 @@ You'll lose one of your hearts!</t>
 <t name='Stupidrestart'>Stupid restart</t>
 <t name='SetupDescription'>Welcome to Progressbar setup!
 
-Congratulations on your choice of new version of Progressbar!
+Congratulations on your choice of a new version of Progressbar!
 
-Setup will take from 5 to 10 seconds</t>
+Setup will take about 5 to 10 seconds</t>
 <t name='LASER'>LASER</t>
 <t name='Privacy3'>Feel free to check out our policies anytime for more information</t>
 <t name='Bravo'>Bravo!</t>
 <t name='Welcome'>Welcome!</t>
 <t name='Privacy1'>By clicking 'OK' or continuing to use this game, you acknowledge that you accept our Privacy Policy. The game uses cookies and analytics to provide you with the best possible experience</t>
-<t name='PrivacyWelcome'>Welcome to ProgressBar 95</t>
+<t name='PrivacyWelcome'>Welcome to Progressbar 95</t>
 <t name='DoYouKnow'>Do you know?</t>
 <t name='Bsod1'>GAME OVER</t>
 <t name='Stupidrestart4'>Remind me tomorrow</t>
 <t name='RestorePurchase'>Restore purchases</t>
 <t name='Newgame'>New game</t>
 <t name='Help2'>Dark Blue — right ones
-Blue — bonus
+Light Blue — bonus
 Orange — wrong ones
 Red — dangerous
 Pink — minus
 Gray — empty
-Green — win</t>
+Green — win
+Multi-colored — random</t>
 <t name='Privacy2'>Feel free to check out our policies anytime for more information</t>
-<t name='ButtonGlitchDescr'>Select a right button to close</t>
+<t name='ButtonGlitchDescr'>Select the correct button to close</t>
 <t name='ConnectingToStore'>Connecting to the Store...</t>
 <t name='Question'>Do you have a minute?</t>
 <t name='EasterEgg'>Easter egg</t>
@@ -125,12 +126,12 @@ Green — win</t>
 <t name='Sound'>Sound</t>
 <t name='Imissyou'>I miss you!</t>
 <t name='BsodScanDescr3'>Use ScanProgress to fix the error</t>
-<t name='BsodScanDescr4'>Try to be fast enough to beat the Errors. Once you reach the finish line, you win. The Errors are moving automatically</t>
+<t name='BsodScanDescr4'>Try to be fast enough to beat the Errors. Once you reach the finish line, you win. The Errors move automatically</t>
 <t name='Finish'>Finish</t>
 <t name='User'>User</t>
 <t name='Errors'>Errors</t>
 <t name='Mymenu'>My menu</t>
-<t name='BsodScanDescr2'>Quickly tap [Scan] button to progress</t>
+<t name='BsodScanDescr2'>Quickly tap the [Scan] button to progress</t>
 <t name='Defragmentation2'>Defragmentation</t>
 <t name='Annoyingpopup'>Annoying pop-up</t>
 <t name='CloudManagerLoad'>Download the save</t>
@@ -154,7 +155,7 @@ Green — win</t>
 <t name='yes2'> Yes </t>
 <t name='Computer'>Computer:</t>
 <t name='CloudSavingOFF'>Turn OFF Cloud</t>
-<t name='TutorialTip3ColorBlind'>If it hard for you to distinguish colors, turn on:</t>
+<t name='TutorialTip3ColorBlind'>If it is hard for you to distinguish colors, turn on:</t>
 <t name='GameModeNormal'>Normal</t>
 <t name='DOSMessage13'>=    YOU'VE GOT:   =</t>
 <t name='Empty'><Empty></t>
@@ -170,7 +171,7 @@ Green — win</t>
 <t name='Nonconformist'>Nonconformist!</t>
 <t name='Progress95Bonus'>95%</t>
 <t name='GameMode3dsaver'>3d screensaver</t>
-<t name='CloudSavingDescr'>The Cloud saving will let you play on different devices and to synchronize your progress</t>
+<t name='CloudSavingDescr'>Cloud saving will let you play on different devices and will synchronize your progress</t>
 <t name='NoAds'>Remove Ads</t>
 <t name='wallpaperselect'>Select wallpaper</t>
 <t name='GameMode'>Game modes</t>
@@ -178,8 +179,8 @@ Green — win</t>
 <t name='DOSMessage6'>DIR display directory</t>
 <t name='warning'>Warning!</t>
 <t name='Help3'>Segments:</t>
-<t name='Help1'>Progressbar95 is a hypercasual game. Your local goal is to fill the progressbar by catching falling items.
-Your global goal is to collect points to get new computer upgrades and install new systems.</t>
+<t name='Help1'>Progressbar95 is a hypercasual game. Your current goal is to fill the progressbar by catching falling items.
+Your main goal is to collect points to get new computer upgrades and install new systems.</t>
 <t name='GetRewardPoints'>  Get 3000 points  </t>
 <t name='BuySystem'>Buy a new system</t>
 <t name='DOSMessage14'>- CHEATER! -</t>
@@ -197,7 +198,7 @@ SHUTDOWN-Shutdown/Restart</t>
 <t name='DOSMessage24'> HAS BEEN DELETED</t>
 <t name='DOSMessage23'>Nice work!</t>
 <t name='DOSMessage22'>My new great novel...</t>
-<t name='Wouldyoumindgiveusareview'>Would you mind give us a review? Tell what you think, share your ideas!</t>
+<t name='Wouldyoumindgiveusareview'>Would you mind giving us a review? Tell us what you think, and share your ideas!</t>
 <t name='PBDQD'>God mode</t>
 <t name='Hithere'>Hi, there!</t>
 <t name='DOSMessage21'>To do list
@@ -248,7 +249,7 @@ Have a great time!</t>
 <t name='BugSendReport'>Report</t>
 <t name='installed'>installed</t>
 <t name='Rategame'>Rate</t>
-<t name='DefragmentationUseless'>You don't need the defragmentation right now. You have no any errors in your progressbar</t>
+<t name='DefragmentationUseless'>You don't need to defragment right now. You have no errors in your progressbar</t>
 <t name='YourSystems'>Your systems:</t>
 <t name='NonconformistBonus'>Nonconformist</t>
 <t name='ErrormessageStoreCancel'>The operation was cancelled</t>
@@ -265,7 +266,7 @@ Have a great time!</t>
 <t name='Fixed'>Fixed: </t>
 <t name='PBNOPOPUP'>block pop-ups</t>
 <t name='specialprolabel'>Special game label</t>
-<t name='CorrectWrong'>Correct: 
+<t name='CorrectWrong'>Correct:
 
 Wrong:</t>
 <t name='Calculator'>Calculator</t>
@@ -273,7 +274,7 @@ Wrong:</t>
 <t name='Play'>Play</t>
 <t name='Bin'>Bin</t>
 <t name='Perfectionist'>Perfectionist!</t>
-<t name='IncorrectCalc'>Wrong calculations!</t>
+<t name='IncorrectCalc'>Wrong calculation!</t>
 <t name='SpecialSkin3'>Special for our loyal player!</t>
 <t name='Yourbest'>Your best: </t>
 <t name='Pleasewait'>Please wait...</t>
@@ -305,7 +306,7 @@ secrets</t>
 <t name='skin_p314'>Includes: (Ad free, 3.14)</t>
 <t name='skin_p2'>Includes: (Ad free, 2)</t>
 <t name='skin_p1'>Includes: (Ad free, 1)</t>
-<t name='GetMorePointsInNextSystem'>You can get more points and meet more game elements in Progreebar9.</t>
+<t name='GetMorePointsInNextSystem'>You can get more points and meet more game elements in Progressbar9.</t>
 <t name='Setup'>Progressbar setup</t>
 <t name='Setup1'>Preparing to run setup</t>
 <t name='Setup2'>Collecting information</t>
@@ -313,7 +314,7 @@ secrets</t>
 <t name='Setup4'>Restarting your system</t>
 <t name='BsodMessage1'>A fatal mistake has been made by the player.
 The current game session will be terminated</t>
-<t name='BsodMessage2'>* Press the key to terminate the current session
+<t name='BsodMessage2'>* Press any key to terminate the current session
 * Don’t press CTRL+ALT+DEL to restart</t>
 <t name='BsodMessage3'>if this is not the first time you've seen this message,try play again. If it appears again, follow these steps:</t>
 <t name='BsodMessage4'>* Try to play better
@@ -322,8 +323,8 @@ The current game session will be terminated</t>
 <t name='BsodMessage6'>A misstep has been detected and the game session has been shut down.
 
 The problem seems to be caused by: PLAYER</t>
-<t name='BsodMessage7'>Your Game ran into a problem that it couldn't handle</t>
-<t name='BallDescription'>Don't let the ball to drop. Beat it off to generate points.</t>
+<t name='BsodMessage7'>Your game ran into a problem that it couldn't handle</t>
+<t name='BallDescription'>Don't let the ball drop out of your screen. Hit it with your progressbar to generate points.</t>
 <t name='Ball'>Ball</t>
 <t name='SafeToTurnOff'>It's now safe to turn off the game</t>
 <t name='ShutDownSystem'>Shutdown</t>
@@ -345,11 +346,11 @@ The problem seems to be caused by: PLAYER</t>
 <t name='Oldingamekeyboard'>Progressbar keyboard</t>
 <t name='Starting'>Starting</t>
 <t name='SaveCorrupted'>Save file is corrupted</t>
-<t name='SaveCorrupted1'>Your local save file is corrupted! 
+<t name='SaveCorrupted1'>Your local save file is corrupted!
 
 You can try to download a backup from the cloud</t>
 <t name='PurchasesConfirmError'>Purchases are not confirmed</t>
-<t name='PurchasesConfirmError2'>Your purchases were not confirmed by Google Play servers. The reason might be either a server error or purchase cancellation. If you didn't cancel the purchase please tap the button to restore your purchases.
+<t name='PurchasesConfirmError2'>Your purchases were not confirmed by Google Play servers. The reason might be either a server error or purchase cancellation. If you didn't cancel the purchase, please tap the button to restore your purchases.
 
 If this message appears again try restarting the app.
 </t>
@@ -366,20 +367,20 @@ If this message appears again try restarting the app.
 <t name='CheatHaveUsed'>You have used this code before!</t>
 <t name='CheatTryFindAnotherOne'>Try to find another one</t>
 <t name='CheatTip'>You can use cheats. Look for them in the game or on the Internet. Enter them via ProgressDOS</t>
-<t name='TutorialAllFree'>You can obtain all systems for free by playing the game. To get it right now you may buy them in the store</t>
+<t name='TutorialAllFree'>You can obtain all systems for free by playing the game. To get it right now, you may buy them in the store</t>
 <t name='ThisSystemDirectory'>This is a system directory!</t>
 <t name='DoYouHaveRights'>Are you the admin?</t>
 <t name='BININSIDEBIN'>BIN INSIDE BIN...</t>
 <t name='AREYOUSURE'>ARE YOU SURE?</t>
 <t name='Y_Yes_N_No'>[Y]-Yes,[N]-No:</t>
 <t name='Seriously'>Seriously?</t>
-<t name='AreYouCheating'>You are cheating?</t>
+<t name='AreYouCheating'>You're cheating?</t>
 <t name='Removing'>Removing:</t>
 <t name='Tap'>Tap</t>
 <t name='RestoreSystem'>Restore system</t>
 <t name='SystemNotFound'>Progressbar system not found...</t>
-<t name='System32Hello'>I am the System 32. You may call me Sys32. I am completely operational</t>
-<t name='System32Killed'>You've killed me recently. That is okay. I have a very good memory(RAM)!</t>
+<t name='System32Hello'>I am System32, you may call me Sys32. I am completely operational</t>
+<t name='System32Killed'>You've killed me recently, and that is okay. I have a very good memory!</t>
 <t name='DOSDEL'>DEL delete a file</t>
 <t name='DOSDELDIR'>RMDIR delete a directory</t>
 <t name='DirCannotBeDeleted'>You can't delete it</t>
@@ -401,8 +402,8 @@ If this message appears again try restarting the app.
 <t name='Videocard'>GPU</t>
 <t name='Soundcard'>Soundcard</t>
 <t name='Monitor'>Monitor</t>
-<t name='CollectPointsCollector'>Collect points to get the collectible system!</t>
-<t name='FormatC'>Are you going to format the disk?</t>
+<t name='CollectPointsCollector'>Collect points to get a new system!</t>
+<t name='FormatC'>Do you wish to format the disk?</t>
 <t name='YouWillLoseAllData'>You will lose all your data!</t>
 <t name='ImNotKidding'>I'm not kidding!</t>
 <t name='AreYouCrazy'>Are you crazy?</t>
@@ -426,7 +427,7 @@ Actually that means nothing... enjoy it!
 <t name='AppStarts'>App starts</t>
 <t name='BluescreensNumber'>Blue screens</t>
 <t name='skin_all'>Includes: (Ad free, All current and future skins) Best deal!</t>
-<t name='DoubleTapPro'>As a Pro you now can double tap to switch the progress bar panel into a vertical position, double tap again to switch it back</t>
+<t name='DoubleTapPro'>As a Pro, you now can double tap to switch the progressbar panel into a vertical position, double tap again to switch it back</t>
 <t name='FairPlay'>Fair play!</t>
 <t name='GameModematrix'>Matrix</t>
 <t name='BasicScore'>Basic score:</t>
@@ -444,32 +445,32 @@ Actually that means nothing... enjoy it!
 <t name='GameModedefender'>Progress Defender</t>
 <t name='PerfectYinandyangtBonus'>Pure Yin and Yang</t>
 <t name='DontClosePopup'>Don't close Pop-ups</t>
-<t name='SweeperDescr1'>ProgressSweeper is an analytic math puzzle for professional players. Your objective is to open correct cells and get blue segments avoiding yellow and red ones</t>
-<t name='SweeperDescr2'>Start by tapping the top left cell. It is always empty and safe</t>
-<t name='SweeperDescr3'>The cell was empty. That means that all cells around are safe as well. Now tap the second one</t>
-<t name='SweeperDescr4'>Great! You've found a blue segment and got some procents! Now tap a cell nearby</t>
-<t name='SweeperDescr5'>As you can see: there a number ONE. That means that we have ONE bad segment nearby. Let's try to find it </t>
+<t name='SweeperDescr1'>ProgressSweeper is an analytical math puzzle for professional players. Your objective is to open correct cells and get blue segments while avoiding yellow and red ones</t>
+<t name='SweeperDescr2'>Start by tapping the top left cell. It is always empty, and safe</t>
+<t name='SweeperDescr3'>The cell is empty. That means that all cells around are safe as well. Now tap the second one</t>
+<t name='SweeperDescr4'>Great! You've found a blue segment and got 5%! Now tap a cell nearby</t>
+<t name='SweeperDescr5'>As you can see: there is a number ONE. That means that we have ONE bad segment nearby. Let's try to find it </t>
 <t name='SweeperDescr6'>The numbers are yellow, that means that the bad segment we are looking for is yellow. Let's continue </t>
 <t name='SweeperDescr7'>There are numbers around red or yellow segments! Red segments have red numbers.</t>
 <t name='SweeperDescr8'>Now we have enough clues. We don't want to get a yellow one. Let's flag it</t>
-<t name='SweeperDescr9'>You've select a yellow flag. Now tap the cell</t>
-<t name='SweeperDescr10'>Superb! Each flag placed correctly will give you some extra point. Now continue the game</t>
-<t name='DefenderDescr1'>Progress Defender is a 'tower defence' game mode. Your objective is to protect your progress from red segments by placing firewalls and other widgets</t>
-<t name='DefenderDescr2'>The progress bar can be dragged only horizontally</t>
+<t name='SweeperDescr9'>You've selected the yellow flag. Now tap the cell</t>
+<t name='SweeperDescr10'>Superb! Each flag placed correctly will give you some extra points. Now continue the game</t>
+<t name='DefenderDescr1'>Progress Defender is a 'tower defense' game mode. Your objective is to protect your progressbar from red segments by placing firewalls and other widgets</t>
+<t name='DefenderDescr2'>The progressbar can be dragged only horizontally</t>
 <t name='DefenderDescr3'>Catch this blue segment as usual</t>
-<t name='DefenderDescr4'>You have to fill the progress bar to win</t>
+<t name='DefenderDescr4'>You have to fill the progressbar to win</t>
 <t name='DefenderDescr5'>You can use your progress to buy widgets</t>
-<t name='DefenderDescr6'>The Firewall is a way to protect from red segments. Tap the button</t>
-<t name='DefenderDescr7'>Tap a free placeholder to put the Firewall</t>
-<t name='DefenderDescr8'>Great! Now you have a protection</t>
+<t name='DefenderDescr6'>The Firewall is a way to protect your progressbar from red segments. Tap the button</t>
+<t name='DefenderDescr7'>Tap an open placeholder to place the Firewall</t>
+<t name='DefenderDescr8'>Great! Now you have some protection</t>
 <t name='DefenderDescr9'>Pop-ups are not dangerous, but they can destroy the firewalls</t>
-<t name='DefenderDescr10'>Create Generator to get extra blue segments</t>
-<t name='DefenderDescr11'>Tap button to get a blue segment</t>
+<t name='DefenderDescr10'>Create a Generator to get extra blue segments</t>
+<t name='DefenderDescr11'>Tap the button to get a blue segment</t>
 <t name='DefenderDescr12'>Use the Antivirus against pop-ups</t>
 <t name='DayCounterWarning1'>The counter is offline. The game needs internet to check the current date.</t>
 <t name='DayCounterWarning2'>Are you living in the future? The calendar on your phone is fast. Please check the date.</t>
 <t name='DayCounterWarning3'>The current date was not confirmed by our online calendar. The counter will be reset.</t>
-<t name='Progster1'>The Progressbar95 music theme is available in a better quality. To unlock it you need to play a special game mode and complete a level without any errors. Do you want to try?</t>
+<t name='Progster1'>The Progressbar95 music theme is available in a better quality. To unlock it, you need to play a special game mode and complete a level without any errors. Do you want to try?</t>
 <t name='Progster2'>You've unlocked a new music theme!</t>
 <t name='Progster3'>You need to get a Perfectionist bonus to unlock this music file</t>
 <t name='MediaPlayer'>Media Player</t>
@@ -479,7 +480,7 @@ Actually that means nothing... enjoy it!
 <t name='Generator'>Generator</t>
 <t name='FileName'>Name</t>
 <t name='DownloadSpeed'>Speed</t>
-<t name='HDDNoiseTip'>Now you have an SSD disk, which works silently. If you like HDD noises, you can turn them on in Settings>Sound menu</t>
+<t name='HDDNoiseTip'>Now you have a solid state drive, which works silently. If you like HDD noises, you can turn them on in Settings>Sound menu</t>
 <t name='Flags'>Flags</t>
 <t name='Wrongtextcolor'>Wrong text color!</t>
 <t name='WrongBackColor'>Wrong background color!</t>
@@ -489,10 +490,10 @@ Actually that means nothing... enjoy it!
 <t name='YourWallpaper'>Your wallpaper</t>
 <t name='SystemIsSafe'>System is safe</t>
 <t name='Danger'>Danger!</t>
-<t name='DatabaseOutOfDate'>Database need to be updated</t>
+<t name='DatabaseOutOfDate'>Database needs to be updated</t>
 <t name='Update'>Update</t>
 <t name='Admin'>Administrator</t>
-<t name='Tapyourusername'>To begin, tap your user name</t>
+<t name='Tapyourusername'>To begin, tap your username</t>
 <t name='MoveFingerToMove'>Move your finger</t>
 <t name='TapToShoot'>Tap to shoot</t>
 <t name='CollectBottles'>Collect bottles</t>
@@ -518,7 +519,7 @@ Actually that means nothing... enjoy it!
 <t name='ach_bug'>Lady Bug</t>
 <t name='ach_descr_bug'>Find a bug</t>
 <t name='ach_perfectionist'>Perfectionist</t>
-<t name='ach_descr_perfectionist'>Fill a progress bar without errors</t>
+<t name='ach_descr_perfectionist'>Fill a progressbar without errors</t>
 <t name='ach_nonconformist'>Nonconformist</t>
 <t name='ach_descr_nonconformist'>Do an about-turn</t>
 <t name='ach_deadpixel'>Dead pixel</t>
@@ -566,23 +567,23 @@ Actually that means nothing... enjoy it!
 <t name='ach_latin'>Lorem ipsum</t>
 <t name='ach_descr_latin'>Latine thesaurum istum</t>
 <t name='ach_matrix'>Matrix</t>
-<t name='ach_descr_matrix'>Play Matrix game mode</t>
+<t name='ach_descr_matrix'>Play the Matrix game mode</t>
 <t name='ach_sys32'>Hello, Dave!</t>
 <t name='ach_descr_sys32'>Remove System32</t>
 <t name='ach_saver'>3D space</t>
-<t name='ach_descr_saver'>Play 3d screensaver game mode</t>
+<t name='ach_descr_saver'>Play the 3d screensaver game mode</t>
 <t name='ach_syscode'>SYSCODE</t>
 <t name='ach_descr_syscode'>Find a system code</t>
 <t name='ach_yinandyangt'>Yin and yang</t>
-<t name='ach_descr_yinandyangt'>Create an yin and yang pattern</t>
+<t name='ach_descr_yinandyangt'>Create a yin and yang pattern</t>
 <t name='ach_colbeta'>Beta collector</t>
 <t name='ach_descr_colbeta'>Collect all special Progressbar skins</t>
 <t name='ach_colclassic'>Collector of classics</t>
 <t name='ach_descr_colclassic'>Collect all classic Progressbar skins</t>
 <t name='ach_colreg'>Full deck</t>
-<t name='ach_descr_colreg'>Collect all regular Progressbars</t>
+<t name='ach_descr_colreg'>Collect all regular Progressbar skins</t>
 <t name='ach_defender'>Firewall commander</t>
-<t name='ach_descr_defender'>Play Progress Defender game mode</t>
+<t name='ach_descr_defender'>Play the Progress Defender game mode</t>
 <t name='ach_dosdigger'>DOS digger</t>
 <t name='ach_descr_dosdigger'>Explore more than five layers of directories</t>
 <t name='ach_dos10k'>10000 DOS points</t>
@@ -590,7 +591,7 @@ Actually that means nothing... enjoy it!
 <t name='ach_dos50k'>50000 DOS points</t>
 <t name='ach_descr_dos50k'>Get more than 50000 points in DOS</t>
 <t name='ach_minesweeper'>Minesweeper</t>
-<t name='ach_descr_minesweeper'>Play Progress sweeper game mode</t>
+<t name='ach_descr_minesweeper'>Play the Progress Sweeper game mode</t>
 <t name='ach_p_1'>Progressbar 1</t>
 <t name='ach_descr_p_1'>Unlock skin</t>
 <t name='ach_p1x'>Progressbar 1X</t>
@@ -624,11 +625,11 @@ Actually that means nothing... enjoy it!
 <t name='ach_pxp'>Progressbar XB</t>
 <t name='ach_descr_pxp'>Unlock skin</t>
 <t name='ach_prog3d'>Progresstein 3d</t>
-<t name='ach_descr_prog3d'>Play Progresstein 3d game mode</t>
+<t name='ach_descr_prog3d'>Play the Progresstein 3d game mode</t>
 <t name='ach_scandisk'>Scanner</t>
 <t name='ach_descr_scandisk'>Use scan progress successfully</t>
 <t name='ach_dontclosepopuphardcore'>Strong sufferance</t>
-<t name='ach_descr_dontclosepopuphardcore'>Don't close popups in Hardcore mode</t>
+<t name='ach_descr_dontclosepopuphardcore'>Don't close any popups in Hardcore mode</t>
 <t name='ach_perfectyinandyangt'>Harmonic perfection</t>
 <t name='ach_descr_perfectyinandyangt'>Perfect Yin and yang</t>
 <t name='ach_getupgrade'>First upgrade</t>
@@ -636,16 +637,16 @@ Actually that means nothing... enjoy it!
 <t name='YellowCode'>Y</t>
 <t name='RedCode'>R</t>
 <t name='BonusFromBIN'>Bonus from Bin:</t>
-<t name='TrashDescr'>This is a food for Bin. Drag it on the Bin icon</t>
-<t name='BinTutorial'>Bin is your digital pet. You have to take care of him: clean, feed (by using trash files), tell him good words. Make Bin happy to get rewards! Otherwise it might be a nightmare </t>
+<t name='TrashDescr'>This is food for your Bin. Drag it onto the Bin icon</t>
+<t name='BinTutorial'>Bin is your digital pet. You have to take care of him! Clean, feed (by using trash files), and encourage him. Make Bin happy to get rewards! Otherwise it might be a nightmare </t>
 <t name='BINAMIMAD'>I'm so mad! Here are some presents for you!!!</t>
 <t name='BINYouarerude'>You are so rude!</t>
 <t name='BINYouthebest'>You are the best!</t>
-<t name='BINCleanme_1'>Please,clean me!</t>
+<t name='BINCleanme_1'>Please, clean me!</t>
 <t name='BINCleanme_2'>Clean me!</t>
 <t name='BINCleanme_3'>I'm full. Clean me!</t>
 <t name='BINCleanme_4'>CLEAN ME!!!</t>
-<t name='BINCleanme_5'>CLEAN ME!!!CLEAN ME!!!</t>
+<t name='BINCleanme_5'>CLEAN ME!!! CLEAN ME!!!</t>
 <t name='BINFull_1'>I'm so full!</t>
 <t name='BINFull_2'>I'm not hungry!</t>
 <t name='BINFull_3'>I have a lot of files inside!</t>
@@ -654,9 +655,9 @@ Actually that means nothing... enjoy it!
 <t name='BINHI_3'>Hello!</t>
 <t name='BINHI_4'>Hello! I'm glad to see you!</t>
 <t name='BINHI_5'>Hello! I'm happy to see you! I love you!</t>
-<t name='BinIsNotReady_1'>I’m not ready for cleaning yet. Wait for tomorrow!</t>
+<t name='BinIsNotReady_1'>I’m not ready for a cleaning yet. Wait until tomorrow!</t>
 <t name='BinIsNotReady_2'>I've said that I'm not ready!</t>
-<t name='BinIsNotReady_3'>Please, let me alone!</t>
+<t name='BinIsNotReady_3'>Please, leave me alone!</t>
 <t name='Bin_yummy_1'>Yummy!</t>
 <t name='Bin_yummy_2'>Tasty!</t>
 <t name='Bin_yummy_3'>Flavorful!</t>
@@ -673,14 +674,14 @@ Actually that means nothing... enjoy it!
 <t name='Bin_badyou_4'>Sob...</t>
 <t name='Bin_badyou_5'>Not funny!</t>
 <t name='Bin_ques_1_0'>I'm bored. Can you tell me a fairy tale? Please!</t>
-<t name='Bin_ques_1_1'>Yes! Of course! Once upon a time, there was a Bin...</t>
+<t name='Bin_ques_1_1'>Yes, of course! Once upon a time, there was a Bin...</t>
 <t name='Bin_ques_1_2'>Maybe next time</t>
 <t name='Bin_ques_1_3'>Go away! Get a job!</t>
 <t name='Bin_ques_2_0'>Do you love me? I need to know</t>
 <t name='Bin_ques_2_1'>Yes! I love you very much!</t>
 <t name='Bin_ques_2_2'>Not now...</t>
 <t name='Bin_ques_2_3'>What a stupid question!</t>
-<t name='Bin_ques_3_0'>Why files are made of zeros and ones?</t>
+<t name='Bin_ques_3_0'>Why are files made of zeros and ones?</t>
 <t name='Bin_ques_3_1'>Because they are digital, my dear</t>
 <t name='Bin_ques_3_2'>I'm busy</t>
 <t name='Bin_ques_3_3'>You are zero!</t>
@@ -693,31 +694,31 @@ Actually that means nothing... enjoy it!
 <t name='Bin_ques_5_2'>Not now</t>
 <t name='Bin_ques_5_3'>Clippy is much better!</t>
 <t name='Bin_ques_6_0'>Am I annoying? Am I talking too much?</t>
-<t name='Bin_ques_6_1'>No! Simply you are very sociable. I like that!</t>
+<t name='Bin_ques_6_1'>No! You are just very sociable. I like that!</t>
 <t name='Bin_ques_6_2'>Maybe next time</t>
-<t name='Bin_ques_6_3'>Yes! You are talking and talking!</t>
+<t name='Bin_ques_6_3'>Yes, you are talking and talking!</t>
 <t name='Bin_ques_7_0'>I'm afraid of ProgressDOS very much! It's so dark down there!</t>
-<t name='Bin_ques_7_1'>Don't be! You are brave! ProgressDOS is not scary at all!</t>
+<t name='Bin_ques_7_1'>Don't be, you are brave! ProgressDOS is not scary at all!</t>
 <t name='Bin_ques_7_2'>I'm busy</t>
 <t name='Bin_ques_7_3'>Yes! ProgressDOS is full of monsters!!!</t>
-<t name='Bin_ques_8_0'>I wonder why the sky on Progressbar95's intro is blue?</t>
+<t name='Bin_ques_8_0'>I wonder, why is the sky on Progressbar95's intro blue?</t>
 <t name='Bin_ques_8_1'>Because a normal sky is blue</t>
 <t name='Bin_ques_8_2'>Not now</t>
 <t name='Bin_ques_8_3'>You are so stupid!</t>
-<t name='Bin_ques_9_0'>Calculator said bad things about me! Now I'm sad</t>
-<t name='Bin_ques_9_1'>Oh, ignore him, he is so stupid and rude!</t>
+<t name='Bin_ques_9_0'>Calculator said bad things about me! Now I'm sad...</t>
+<t name='Bin_ques_9_1'>Oh, ignore him, he's so stupid and rude!</t>
 <t name='Bin_ques_9_2'>Leave me alone</t>
-<t name='Bin_ques_9_3'>He was right. Calculator is always right!</t>
+<t name='Bin_ques_9_3'>He was right, Calculator is always right!</t>
 <t name='Bin_ques_10_0'>Are we good friends?</t>
-<t name='Bin_ques_10_1'>Of course, we are! You are my best friend!</t>
+<t name='Bin_ques_10_1'>Of course we are! You are my best friend!</t>
 <t name='Bin_ques_10_2'>Leave me alone</t>
 <t name='Bin_ques_10_3'>No, we are not! We are enemies!</t>
 <t name='skin_pds'>Includes: (Ad free, PB-DOS Shell)</t>
 <t name='PBDesc'>PB-DOS Shell is a text-based shell for ProgressDOS that should make your life much easier. Forget about the console! Our progressive user interface is much more ergonomic and comfortable</t>
-<t name='PBKeys'>PB-DOS Shell does not support mouse, you need to use keys to move the progress bar. That is easy and fun!</t>
-<t name='PBTerDescr'>ProgressTris. You have to complete a solid line of blocks to complete a level. That is harder than you think</t>
+<t name='PBKeys'>PB-DOS Shell does not support mouse input, you need to use keys to move the progressbar. That's easy and fun!</t>
+<t name='PBTerDescr'>ProgressTrix. You have to complete a solid line of blocks to complete a level. It's harder than you think</t>
 <t name='PBTerNextF'>Next figure:</t>
-<t name='PBNorDescr'>Progressbar Commander. Build a stack of elements at the right column. Press [->] button to move a moving element from the left column to the right. Read description of the elements! "Blue" and "Yellow" are good, "Red" are bad!</t>
+<t name='PBNorDescr'>Progressbar Commander. Build a stack of elements at the right column. Press the [->] button to move a moving element from the left column to the right. Be sure to read description of the elements! "Blue" and "Yellow" are good, "Red" is bad!</t>
 <t name='PBNBlue'>Blue</t>
 <t name='PBNYellow'>Yellow</t>
 <t name='PBNGreen'>Green</t>
@@ -759,7 +760,7 @@ Actually that means nothing... enjoy it!
 <t name='BinWakeUp3'>You woke me up! Why?</t>
 <t name='PopUpWithCheckboxes1'>Check checkboxes</t>
 <t name='PopUpWithCheckboxes2'>Unсheck checkboxes</t>
-<t name='OptionForNotches'>This option may help to configure game's interface on screens with rounded corners or bottom notches</t>
+<t name='OptionForNotches'>This option may help to configure the game's interface on screens with rounded corners or bottom notches</t>
 <t name='OptionForCursor'>You may need an external mouse for this option to work properly</t>
 <t name='ShowCursor'>Show cursor</t>
 <t name='Taskbar'>Taskbar</t>
@@ -770,7 +771,7 @@ Actually that means nothing... enjoy it!
 <t name='TaskbarOption3'>Black insert</t>
 <t name='ach_descr_pch'>Unlock skin</t>
 <t name='ach_pch'>Progressbar Chitown</t>
-<t name='PchDescr'>Progressbar Chitown is a 'spiritual predecessor' of Progressbar 95, its early edition. The system recreates gameplay features of the very first public version of Progressbar 95 [ver. 0.21]. It has only one game mode and a limited number of popups and segments. There is no any utilities to help you. So the gameplay is a little bit harder, that is a great way to challenge your skills!</t>
+<t name='PchDescr'>Progressbar Chitown is a 'spiritual predecessor' of Progressbar 95, its early edition. The system recreates gameplay features of the very first public version of Progressbar 95 [ver. 0.21]. It has only one game mode and a limited number of popups and segments. There are no utilities to help you, so the gameplay is a little bit harder. It's a great way to challenge your skills!</t>
 <t name='skin_pch'>Includes: (Ad free, Chitown)</t>
 <t name='General'>General</t>
 <t name='ShowCursorTrail'>Display cursor trails</t>
@@ -778,7 +779,7 @@ Actually that means nothing... enjoy it!
 <t name='ach_removebin'>Trash recursion</t>
 <t name='ach_descr_removebin'>Remove Bin</t>
 <t name='TapToRotateDesktop'>Use a mousewheel or arrow keys to rotate</t>
-<t name='CustomGameModeDescr'>For professional players only! This is a special utility to create your own custom game mode. Use checkboxes and sliders to adjust number of popups, game speed and so on. Extreme parameters provide more points. You may save your settings as presets and share their codes with other players.</t>
+<t name='CustomGameModeDescr'>For professional players only! This is a special utility to create your own custom game mode. Use checkboxes and sliders to adjust the number of popups, game speed and so on. Extreme parameters provide more points. You may save your settings as presets and share their codes with other players.</t>
 <t name='CustomGameMode'>Custom game mode</t>
 <t name='CDCode'>Custom difficulty code</t>
 <t name='CDCodeDescr'>You may use settings from other players. Check the game's communities for special 'Custom difficulties codes' and enter them here</t>
@@ -808,7 +809,7 @@ Actually that means nothing... enjoy it!
 <t name='Difficulty'>Difficulty</t>
 <t name='Save'>Save</t>
 <t name='GameModeCustom'>Custom difficulty</t>
-<t name='ShareCustomCode'>Share this code so other players might try to beat your game mode</t>
+<t name='ShareCustomCode'>Share this code, so other players might try to beat your game mode</t>
 <t name='Logon'>Logon</t>
 <t name='TapToLogON'>Tap to log on</t>
 <t name='TapToLogONPC'>Press Enter to log on</t>
@@ -838,7 +839,7 @@ Actually that means nothing... enjoy it!
 <t name='Unlocked'>Unlocked</t>
 <t name='SpendKeys'>Are you going to spend your product keys?</t>
 <t name='ProductKeys'>Product keys</t>
-<t name='NoKeys'>Unfortunately you are out of the product keys</t>
+<t name='NoKeys'>Unfortunately you are out of product keys</t>
 <t name='keys_10'>Includes: 10 Product Keys</t>
 <t name='keys_25'>Includes: 25 Product Keys</t>
 <t name='keys_50'>Includes: 50 Product Keys + Ad Free</t>
@@ -848,7 +849,7 @@ Actually that means nothing... enjoy it!
 <t name='ach_customgame'>My rules</t>
 <t name='ach_descr_customgame'>Play a custom game mode</t>
 <t name='ach_cgameimpossible'>Mission possible</t>
-<t name='ach_descr_cgameimpossible'>Beat impossible difficulty playing high stages</t>
+<t name='ach_descr_cgameimpossible'>Beat the impossible difficulty while playing in high stages</t>
 <t name='ach_ieye'>Catch eye</t>
 <t name='ach_descr_ieye'>Get a bonus from the heart</t>
 <t name='ach_slidepuzzle'>Sliding puzzle</t>
@@ -912,7 +913,7 @@ Actually that means nothing... enjoy it!
 <t name='ChangeUserpic'>Change userpic</t>
 <t name='SoundVolume'>Sound volume</t>
 <t name='MusicVolume'>Music volume</t>
-<t name='HDDNoiseTip2'>Now you have an SSD disk, which works silently. Do you want to keep HDD noises?</t>
+<t name='HDDNoiseTip2'>Now you have a solid state drive, which works silently. Do you want to keep the HDD noises?</t>
 <t name='Magenta'>Pink</t>
 <t name='MagicMagenta'>Magic pink</t>
 <t name='ach_magenta'>Pink is a new blue</t>
@@ -925,9 +926,9 @@ Actually that means nothing... enjoy it!
 Note: You may drag files to Bin to remove them</t>
 <t name='HelpHelp'>This Help is to help you to use Help. Use Help when you need help. Hope this helps!</t>
 <t name='RewardVideo'>Reward video</t>
-<t name='Bphrase1'>I'm Happy!</t>
+<t name='Bphrase1'>I'm happy!</t>
 <t name='Bphrase2'>I'm a snob!</t>
-<t name='Bphrase3'>I have high IQ!</t>
+<t name='Bphrase3'>I have a high IQ!</t>
 <t name='Bphrase4'>I'm amazing!</t>
 <t name='Bphrase5'>I'm incredible!</t>
 <t name='Bphrase6'>I'm fantastic!</t>
@@ -935,17 +936,17 @@ Note: You may drag files to Bin to remove them</t>
 <t name='Bphrase8'>I'm the best!</t>
 <t name='Bphrase9'>I'm better than ever!</t>
 <t name='FilerPointsBonus'>Filer bonus</t>
-<t name='BarGameTutorial1'>Hi! Bar OS is different. You have to play by new rules. You don't need to drag the progress bar</t>
-<t name='BarGameTutorial2'>We removed the drag feature, we had the courage to move on</t>
-<t name='BarGameTutorial3'>Now the progress bar is moving automatically! It is amazing isn't it?</t>
-<t name='BarGameTutorial4'>One more thing. Use this fantastic button to generate segments</t>
+<t name='BarGameTutorial1'>Hi! Bar OS is different. You have to play by new rules. You don't need to drag the progressbar</t>
+<t name='BarGameTutorial2'>We removed the drag feature, and we had the courage to move on</t>
+<t name='BarGameTutorial3'>Now the progressbar is moving automatically! It's amazing isn't it?</t>
+<t name='BarGameTutorial4'>One more thing, use this fantastic button to generate segments</t>
 <t name='DiskAmbulance'>Progress Ambulance</t>
 <t name='GameModeNormalBar'>Regular</t>
 <t name='GameModeRelaxBar'>Casual</t>
 <t name='GameModeHardcoreBar'>High-end</t>
 <t name='PuzzleSolved'>The puzzle has already been solved</t>
 <t name='Drag'>Drag</t>
-<t name='Applicationnotfound'>The application can't be found</t>
+<t name='Applicationnotfound'>The application cannot be found</t>
 <t name='SpecialShort'>Special</t>
 <t name='Games'>Games</t>
 <t name='AllShort'>All</t>
@@ -984,7 +985,7 @@ Note: You may drag files to Bin to remove them</t>
 <t name='GameModeColorBar'>Color</t>
 <t name='GameModepuzzle'>Jigsaw Puzzle</t>
 <t name='ach_rainbow'>ROYGBIV</t>
-<t name='ach_descr_rainbow'>Collect color spectrum</t>
+<t name='ach_descr_rainbow'>Collect the color spectrum</t>
 <t name='FolderUnlocked'>The folder has been unlocked</t>
 <t name='UnluckyNumber'>13</t>
 <t name='GameModeprogresscommander'>Progress Commander</t>
@@ -1001,7 +1002,7 @@ Note: You may drag files to Bin to remove them</t>
 <t name='PBXLDescr7'>Reach the bottom row</t>
 <t name='PBXLDescr8'>This is your progress</t>
 <t name='GameModexl'>PB XL</t>
-<t name='Disclaimer'>All the characters and operating systems depicted are fictitious. Any resemblance to a character, operating system living or dead is purely coincidental</t>
+<t name='Disclaimer'>All characters and operating systems depicted in this game are fictitious. Any resemblance to a character, operating system living or dead is purely coincidental</t>
 <t name='Mailbox'>Mailbox</t>
 <t name='From'>From</t>
 <t name='Subject'>Subject</t>
@@ -1012,7 +1013,7 @@ Note: You may drag files to Bin to remove them</t>
 <t name='Mail_Text_1'>Hi, dear player!
 Hope you are doing well!
 
-This is your virtual in-game mailbox. You'll receive various messages and decide if they are important and need to be replied, ignored or removed as a email spam. You may get some bonuses by making correct decisions.
+This is your virtual in-game mailbox. You'll receive various messages and decide if they are important and need to be replied to, ignored or removed as a email spam. You may get some bonuses by making correct decisions.
 
 Have a great day
 Icoeye and Spooky House Studios</t>
@@ -1030,12 +1031,12 @@ Have a great day!</t>
 <t name='Mail_Dontlikespam'>I don’t like email spam!</t>
 <t name='Mail_SpamFrom3'>Gary Spammer</t>
 <t name='Mail_SpamSubject3'>PBSYSTEM-21 presentation</t>
-<t name='Mail_SpamText3'>We invite you to come see and hear about PBSYSTEM-21 family at the product presentation we will giving this month</t>
+<t name='Mail_SpamText3'>We invite you to come see and hear about the PBSYSTEM-21 family at the product presentation we will giving this month</t>
 <t name='Mail_SpamFrom4'>Prince Clippy</t>
 <t name='Mail_SpamSubject4'>Message #419</t>
 <t name='Mail_SpamText4'>Dear friend,
 
-My name is Clippy the Third. I'm a Prince of Progressbaria. I have deposited 10 000 points. I need your help to obtain the points, but I don't want to reveal my identity. You may get 50% of the points. To unlock them, please, send me 2000 of your points first.
+My name is Clippy the Third. I'm the Prince of Progressbaria. I have deposited 10 000 points. I need your help to obtain the points, but I don't want to reveal my identity. You may get 50% of the points. To unlock them, please send me 2000 of your points first.
 
 Yours sincerely,
 Mr. Clippy III, Prince of Progressbaria</t>
@@ -1066,7 +1067,7 @@ Here is your bonus! I love you!
 Yours sincerely,
 Mr. Dog</t>
 <t name='Mail_SpamPrinceAnswer2'>
-You are very lucky! I'm a real Prince! Most of such messages are fakes, but this one was real.
+You are very lucky! I'm a real Prince! Most of these messages are fakes, but this one was real.
 
 I've sent you 5000 points!
 
@@ -1101,7 +1102,7 @@ I would like to inform you that YOU ARE FIRED!!!
 
 Have a wonderful day,
 Boss</t>
-<t name='Mail_Working1'>I'm working on the project. Will be ready soon</t>
+<t name='Mail_Working1'>I'm working on the project. It will be ready soon</t>
 <t name='Mail_WhenProject'>How soon? I need to know exactly!
 
 Have a wonderful day,
@@ -1109,7 +1110,7 @@ Boss</t>
 <t name='Mail_Working2'>The project is almost ready! I'll send you a preview by tomorrow</t>
 <t name='Mail_WhenProject2'>Great job!
 
-You'll get a bonus +1000 points
+You'll get a bonus of +1000 points
 
 Have a wonderful day,
 Boss</t>
@@ -1136,7 +1137,7 @@ Best wishes,
 Boss</t>
 <t name='Mail_MoreWork'>Hi!
 
-I'm your boss. I know that you like your work very much. Would you like to work nights and weekends for about an year? We have a very inessential project to complete!
+I'm your boss. I know that you like your work very much. Would you like to work nights and weekends for about a year? We have a very inessential project to complete!
 
 Best wishes,
 Boss</t>
@@ -1145,20 +1146,20 @@ Boss</t>
 
 We know that your system crashes from time to time.
 
-Have you tried turning it Off and On again?
+Have you tried turning it off and on again?
 
 Don't bother us,
 Tech Support</t>
 <t name='Mail_TurnItONOFFAgain'>Hi!
 
-Turn it Off and On and then tell us if that helped.
+Turn it off and on, and then tell us if that helped.
 
 Don't bother us,
 Tech Support</t>
 <t name='SpamTasty'>The email spam was very tasty!</t>
 <t name='Mail_Progressbar'>Hi!
 
-Let's play a mail version of Progressbar.
+Let's play a mail version of Progressbar95.
 
 Your objective is to collect 100% of [Progress] messages and get a final bonus.
 
@@ -1169,12 +1170,12 @@ Progressbar95
 <t name='StartGame'>Start game</t>
 <t name='Cancel'>Cancel</t>
 <t name='CatchSegment'>Catch this segment</t>
-<t name='DodgeSegment'>Shy away from the segment</t>
+<t name='DodgeSegment'>Shy away from this segment</t>
 <t name='BlueCode'>B</t>
 <t name='YouHaveANewMailMessage'>You have a new mail message!</t>
 <t name='BinIhadANightmare'>I had a nightmare!</t>
 <t name='BINTHankYouWakingMeUp'>Thank you for waking me up!</t>
-<t name='MyBaby'>That is my little baby!</t>
+<t name='MyBaby'>That's my little baby!</t>
 <t name='WaitForMe'>Hey! Wait for me!!!</t>
 <t name='WeekDay1'>Mon</t>
 <t name='WeekDay2'>Tue</t>
@@ -1188,7 +1189,7 @@ Progressbar95
 <t name='ach_descr_b10'>Unlock skin</t>
 <t name='skin_b10'>Includes: (Ad free, BarOS 1,2,3,4,5,6,7,8,9,10)</t>
 <t name='ach_rmrf'>RMRF</t>
-<t name='CantRestart'>The system cannot be shut down right now. Try later</t>
+<t name='CantRestart'>The system cannot be shut down right now. Please try again later</t>
 <t name='DOSMessageHidden'>This is a hidden folder. It can only been seen through Terminus</t>
 <t name='DontPanic2'>Thank you! Emotional support is very important!</t>
 <t name='IHavePanicAttack'>A-A-A-A! I'm having a panic attack!</t>
@@ -1217,10 +1218,10 @@ Progressbar95
 <t name='CloseProcessDescr'>Select a process to close it</t>
 <t name='Spacebar'>Spacebar</t>
 <t name='Unresponsive'>unresponsive</t>
-<t name='UnresponsiveProcess'>The process does not response. Try again?</t>
+<t name='UnresponsiveProcess'>The process is not responding. Try again?</t>
 <t name='SuspiciousProcess'>Suspicious</t>
 <t name='Bye'>Bye-Bye!</t>
-<t name='TaskCloseDescription'>Collect Ctrl, Alt and Del keys to unlock 'Processes' utility</t>
+<t name='TaskCloseDescription'>Collect the Ctrl, Alt and Del keys to unlock the 'Processes' utility</t>
 <t name='ach_descr_ctrlaltdel'>Collect keys</t>
 <t name='FirePanel2'>Click the screen to shoot. There is no need to drag the panel</t>
 <t name='Reply'>Reply</t>
@@ -1258,7 +1259,7 @@ Progressbar95
 <t name='Urgent'>Urgent!</t>
 <t name='Mail_WhatITMeans'>Hi!
 
-I have an urgent question! What does IT means??? 
+I have an urgent question! What does IT mean???
 
 Boss,
 Have a great day!
@@ -1269,7 +1270,7 @@ Have a great day!
 
 <t name='MailRamOrMemory'>Hi!
 
-Do we need more RAM or more memory in our computers? 
+Do we need more RAM or more memory in our computers?
 
 Boss,
 Have a great day!</t>
@@ -1284,10 +1285,10 @@ Boss,
 Have a great day!</t>
 <t name='ach_anotherdeck'>Different deck</t>
 <t name='ach_descr_anotherdeck'>Collect all regular BarOS systems</t>
-<t name='TagGameTutorial1'>Hi! This is a new amazing game mode!</t>
-<t name='TagGameTutorial2'>The progress bar is moving by its own. But you can turn it around by using a special button</t>
-<t name='TagGameTutorial3'>This is the smartest progress bar ever! It is based on B1 AI chip</t>
-<t name='TagGameTutorial4'>Click the screen to put a segment</t>
+<t name='TagGameTutorial1'>Hi! This is a new and amazing game mode!</t>
+<t name='TagGameTutorial2'>The progressbar is moving on its own, but you can turn it around by using a special button</t>
+<t name='TagGameTutorial3'>This is the smartest progressbar ever! It is based on the B1 AI chip</t>
+<t name='TagGameTutorial4'>Click the screen to place a segment</t>
 <t name='TurnAround'>Turn Around</t>
 <t name='skin_b14'>Includes: (Ad free, BarOS 1,2,3,4,5,6,7,8,9,10,10.II,10.III,11,12)</t>
 <t name='skin_pnp'>Includes: (Ad free, Nepbar)</t>
@@ -1299,19 +1300,19 @@ Have a great day!</t>
 <t name='ach_descr_klondike'>Play Progressolitaire game mode</t>
 <t name='LastSave2'>Since last save has passed</t>
 <t name='LessMinute'>less a minute</t>
-<t name='YouAreNotLoggedInGameSevices'>You are not logged in to Google Play Games. Please check that you have Google Play Games app on your device</t>
+<t name='YouAreNotLoggedInGameSevices'>You are not logged in to Google Play Games. Please check that you have the Google Play Games app on your device</t>
 <t name='TryToLogin'>Try to login?</t>
 <t name='Bin_not_question'>May I send you notifications when I'm hungry or sad?</t>
-<t name='Bin_not1'>Yes! Sure!</t>
-<t name='Bin_not2'>No. Never!</t>
-<t name='MissingYou'>I'm missing you!</t>
+<t name='Bin_not1'>Yes please!</t>
+<t name='Bin_not2'>No, never!</t>
+<t name='MissingYou'>I miss you!</t>
 <t name='AnnoyingNotification'>Annoying notification!</t>
 <t name='BugNotification'>A notification with a bug!</t>
 <t name='Calendar'>Calendar</t>
 <t name='Weekend'>Weekend</t>
 <t name='WeekendD'>Enjoy weekends and get more points</t>
 <t name='BinDay'>Bin day</t>
-<t name='BinDayD'>Day to take care of Bin and get more points</t>
+<t name='BinDayD'>Take care of Bin and get more points</t>
 <t name='DOSDay'>DOS day</t>
 <t name='DOSDayD'>Get more points from command line modes</t>
 <t name='ProgressbarDay'>Progressbar day</t>
@@ -1321,15 +1322,15 @@ Have a great day!</t>
 <t name='BarOSDay'>BarOS day</t>
 <t name='BarOSDayD'>Get more points in BarOS systems</t>
 <t name='Dogday'>Friendship day</t>
-<t name='DogdayD'>Get more points from friends: dogs or cathorses</t>
+<t name='DogdayD'>Get more points from friends, like dogs or cathorses</t>
 <t name='BINMyDay'>Today is my day!</t>
-<t name='KlondikeTutorial1'>Progressolitaire is a solitaire card game. It is like a Klondike, but much simplier, because there is less number of playing cards. 
+<t name='KlondikeTutorial1'>Progressolitaire is a solitaire card game. It is like Klondike, but much simplier, because there is a less number of playing cards.
 
 Your objective is to build up four foundations by suit from Ace to Dog. Each foundation must include five cards in the following sequence: Ace,2,3,Clippy,Dog</t>
 
 <t name='MustBeAce'>The first card must be an Ace!</t>
 <t name='MustBeDog'>The first card must be a King!</t>
-<t name='CorrectSequence1'>The correct order is: 
+<t name='CorrectSequence1'>The correct order is:
 Ace (1)
 2
 3
@@ -1343,24 +1344,24 @@ Clippy (4)
 Ace(1)</t>
 <t name='DifferentColorB'>Wrong card color! Choose a black card</t>
 <t name='DifferentColorR'>Wrong card color! Choose a red card</t>
-<t name='WrongCard1'>Please, use a Clubs (♣) card</t>
-<t name='WrongCard2'>Please, use a Diamonds (♦) card</t>
-<t name='WrongCard3'>Please, use a Spades (♠) card</t>
-<t name='WrongCard4'>Please, use a Hearts (♥) card</t>
+<t name='WrongCard1'>Please use a Clubs (♣) card</t>
+<t name='WrongCard2'>Please use a Diamonds (♦) card</t>
+<t name='WrongCard3'>Please use a Spades (♠) card</t>
+<t name='WrongCard4'>Please use a Hearts (♥) card</t>
 <t name='DragCardToFoundation'>Drag this card to the foundation deck</t>
 <t name='MoveBetweenDecks'>You may move cards between fanned piles, but remember that they should be of different colors!</t>
 <t name='UseStock'>You may use the stock deck. Click it to open</t>
-<t name='UseStock2'>Tap to collect cards back</t>
+<t name='UseStock2'>Tap to move cards back</t>
 <t name='ExitWarning'>Do you want to exit?
 You'll lose your current progress!</t>
-<t name='BINShy'>I'm Bin. And I'm shy. Let's talk later.</t>
-<t name='TipYellow'>Yellow segments are 'corrupted'. They harmless, but they give you less points. Perfectionists don't collect them</t>
+<t name='BINShy'>I'm Bin, and I'm shy. Let's talk later.</t>
+<t name='TipYellow'>Yellow segments are 'corrupted'. They're harmless, but they give you less points. Perfectionists don't collect them</t>
 <t name='UnlockLater'>SYSTEMS YOU'LL UNLOCK LATER:</t>
 <t name='LessPoints'>Less points</t>
 <t name='IAMBIN'>My name is Bin. Please click me</t>
 <t name='BINHungry'>Please feed me!</t>
-<t name='BINDragFood'>Drag this file on me</t>
-<t name='TutorialBackground'>Play and unlock new wallpapers. 
+<t name='BINDragFood'>Drag this file onto me</t>
+<t name='TutorialBackground'>Play and unlock new wallpapers.
 
 Click a thumbnail to select a wallpaper</t>
 <t name='TutorialPink'>Try to avoid pink segments. They take away your progress!</t>
@@ -1368,10 +1369,10 @@ Click a thumbnail to select a wallpaper</t>
 <t name='GetMoreGames'>Includes more features and minigames</t>
 <t name='Whee'>Whee!!!</t>
 <t name='FirstComp'>Your first computer</t>
-<t name='PointsUpgrades'>Points=Upgrades</t>
+<t name='PointsUpgrades'>Points = Upgrades</t>
 <t name='FirstSystem'>Your first system:</t>
 <t name='YourHardware'>Your hardware:</t>
-<t name='UseMenu'>Use this menu to open Settings,ProgressDOS or Help</t>
+<t name='UseMenu'>Use this menu to open Settings, ProgressDOS or Help</t>
 <t name='Forhackers'>For hackers: use it for secrets and prizes</t>
 <t name='Unblock'>Unblock</t>
 <t name='FilledArea'>Filled part</t>
@@ -1391,7 +1392,7 @@ Click a thumbnail to select a wallpaper</t>
 <t name='TestAudio'>Current audio quality:</t>
 <t name='Mail_Text_winthol'>Dear player!
 
-Wishing you happiness, peace, fun and a lot of progress in the coming year!
+Wishing you happiness, peace, fun, and a lot of progress in the coming year!
 
 Merry winter holidays!
 
@@ -1418,7 +1419,7 @@ Icoeye and Spooky House Studios</t>
 <t name='ProtectionModule'>System File Shield (SFS)</t>
 <t name='SystemShieldIsTurnedOff'>System File Shield (SFS) has been turned off</t>
 <t name='Protected'>Protected</t>
-<t name='DefeatBoss'>You defeat me! But I have a backup! See you soon! Have a nice day!</t>
+<t name='DefeatBoss'>You have defeated me, but I have a backup! See you soon! Have a nice day!</t>
 <t name='ProtectivePanel'>Protective panel</t>
 <t name='BonusAutoAim'>D-torpedo</t>
 <t name='BonusGigaDamage'>Giga damage</t>
