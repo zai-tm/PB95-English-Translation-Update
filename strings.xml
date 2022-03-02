@@ -316,7 +316,7 @@ secrets</t>
 The current game session will be terminated</t>
 <t name='BsodMessage2'>* Press any key to terminate the current session
 * Don’t press CTRL+ALT+DEL to restart</t>
-<t name='BsodMessage3'>if this is not the first time you've seen this message,try play again. If it appears again, follow these steps:</t>
+<t name='BsodMessage3'>if this is not the first time you've seen this message, try playing again. If it appears again, follow these steps:</t>
 <t name='BsodMessage4'>* Try to play better
 * Use ScanProgress</t>
 <t name='BsodMessage5'>Technical information:</t>
